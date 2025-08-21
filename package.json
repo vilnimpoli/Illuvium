@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@splinetool/react-spline": "^4.1.0",
+    "boxicons": "^2.1.4"
+  }
+}
