@@ -212,7 +212,7 @@ return (
 
             {/*Avatar visual placeholder*/}
         <div className="w-20 h-20 bg-gray-800/50 rounded-md flex items-center justify-center mb-2">
-            <img src="public\img\VIKI.png" alt="Viki-img" />
+            <img src="public/img/VIKI.png" alt="Viki-img" />
         </div>
 
             {/*Star rating*/}
@@ -238,7 +238,7 @@ return (
 
             {/*Avatar visual placeholder*/}
         <div className="w-20 h-20 bg-gray-800/50 rounded-md flex items-center justify-center mb-2">
-            <img src="public\img\ZOA.png" alt="Zoa-img" />
+            <img src="public/img/ZOA.png" alt="Zoa-img" />
         </div>
 
             {/*Star rating*/}

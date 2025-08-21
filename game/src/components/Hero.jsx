@@ -13,7 +13,7 @@ return (
         </video>
 
     <div className='absolute bottom-[15%] flex flex-col items-center gap-5'>
-        <img className='md:w-[30rem] w-[20rem]' src="public\img\illu-text.png" alt="" />
+        <img className='md:w-[30rem] w-[20rem]' src="public/img/illu-text.png" alt="" />
     
         <h1 className='md:text-2xl text-1xl font-bold'>
             Explore Capture Conquer </h1>
@@ -25,7 +25,7 @@ return (
         </button>
 
         <div className='flex items-center gap-5 text-3xl font-extrabold text-gray-200'>
-            <img className='md:h-16 h-12' src="public\img\Illu Logo.png" alt="Illu-logo" /> ZERO
+            <img className='md:h-16 h-12' src="public/img/Illu Logo.png" alt="Illu-logo" /> ZERO
         </div>
 
         <p className='max-w-[80%] text-center text-[#babaff]'>

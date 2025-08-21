@@ -23,7 +23,7 @@ return (
             
             {/*Card bg with gradient*/}
             <div className="absolute h-full w-full">
-                <img src="public\img\bento-card1.png" alt="card-1" />
+                <img src="public/img/bento-card1.png" alt="card-1" />
                 <button className="absolute bottom-0 h-16 w-full bg-black bg-opacity-70 text-2xl font-bold hover:text-violet-500 transition-all duration-300 text-nowrap ">
                 <i class='bx bx-store-alt' ></i> NFT STORE
                 </button>
@@ -66,7 +66,7 @@ return (
             {/*Card 6 - Bottom large card*/}
             <div className="relative overflow-hidden rounded-3xl border border-white aspect-[16/9] md:col-span-2 transform transition-transform duration-300 hover:scale-[1.02]">
 
-                <img src="public\img\bento-card5.png" alt="card-6" />
+                <img src="public/img/bento-card5.png" alt="card-6" />
             <button className="absolute bottom-0 h-16 w-full bg-black bg-opacity-70 text-2xl font-bold hover:text-violet-500 transition-all duration-300 text-nowrap">
             <i class='bx bx-link-external'></i> Buy Now
             </button>
