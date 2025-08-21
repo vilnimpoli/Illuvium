@@ -33,7 +33,7 @@ return (
             {/*Card 2 - Bottom Left*/}
 
             <div className="relative overflow-hidden rounded-3xl border border-white aspect-[4.4/4] transform transition-transform duration-300 hover:scale-105">
-            <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="public\videos\Bento Card 2.mp4"></video>
+            <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="/videos/Bento Card 2.mp4"></video>
 
             </div>
         </div>
@@ -45,19 +45,19 @@ return (
 
                 {/*Card 3 - first small card*/}
             <div className="relative overflow-hidden rounded-3xl border border-white aspect-square transform transition-transform duration-300 hover:scale-105">
-                <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="public\videos\Bento Card 3.mp4"></video>
+                <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="/videos/Bento Card 3.mp4"></video>
                 <h1 className="absolute bottom-2 left-1/2 transform -translate-x-1/2 z-10 font-extrabold text-2xl">Scoriox</h1>
             </div>
 
                 {/*Card 4 - second small card*/}
             <div className="relative overflow-hidden rounded-3xl border border-white aspect-square transform transition-transform duration-300 hover:scale-105">
-                <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="public\videos\bento-card4.mp4"></video>
+                <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="/videos/bento-card4.mp4"></video>
                 <h1 className="absolute bottom-2 left-1/2 transform -translate-x-1/2 z-10 font-extrabold text-2xl">Floralynx</h1>
             </div>
 
                 {/*Card 5 - third small card*/}
             <div className="relative overflow-hidden rounded-3xl border border-white aspect-square transform transition-transform duration-300 hover:scale-105">
-                <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="public\videos\bento-card5.mp4"></video>
+                <video className="w-full h-full object-cover" autoPlay loop muted playsInline src="/videos/bento-card5.mp4"></video>
                 <h1 className="absolute bottom-2 left-1/2 transform -translate-x-1/2 z-10 font-extrabold text-2xl">Titanor</h1>
             </div>
         </div>

@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
 return (
     <main className='relative w-full h-screen overflow-hidden flex justify-center mb-[10%]'>
-        <video src="public/videos/hero.mp4" 
+        <video src="/videos/hero.mp4" 
         autoPlay 
         loop 
         muted 
@@ -13,7 +13,7 @@ return (
         </video>
 
     <div className='absolute bottom-[15%] flex flex-col items-center gap-5'>
-        <img className='md:w-[30rem] w-[20rem]' src="public/img/illu-text.png" alt="" />
+        <img className='md:w-[30rem] w-[20rem]' src="/img/illu-text.png" alt="" />
     
         <h1 className='md:text-2xl text-1xl font-bold'>
             Explore Capture Conquer </h1>
